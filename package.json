@@ -10,6 +10,7 @@
   "author": "Jason Dykstra",
   "license": "ISC",
   "dependencies": {
+    "@tensorflow/tfjs": "^3.14.0",
     "random-forest-classifier": "^0.6.0"
   }
 }
