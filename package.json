@@ -1,0 +1,15 @@
+{
+  "name": "doodleclassifier",
+  "version": "1.0.0",
+  "description": "Classification tool for doodles",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Dykstra",
+  "license": "ISC",
+  "dependencies": {
+    "random-forest-classifier": "^0.6.0"
+  }
+}

@@ -1,0 +1,26 @@
+body {
+    background-color: #AAA;
+}
+
+button {
+    font-size: 24pt;
+    margin: 10px;
+}
+
+#guessDiv {
+    font-size: 24pt;
+    width: 30%;
+}
+
+.flex_container {
+    display: flex;
+    /* justify-content: center; */
+}
+
+.flex_container > div {
+    padding: 20px;
+}
+
+#guessDiv {
+    color: lightslategray;
+}
